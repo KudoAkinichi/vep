@@ -1,0 +1,422 @@
+.dashboard-child,
+.dashboard-item {
+  position: absolute;
+  top: 152px;
+  left: 185px;
+  border-radius: 32px;
+  width: 440px;
+  height: 240px;
+}
+.dashboard-child {
+  background-color: #fff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+.dashboard-item {
+  overflow: hidden;
+}
+.dashboard-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 8px 0 16px rgba(0, 0, 0, 0.05);
+  width: 100px;
+  height: 1024px;
+}
+.fluentarrow-sort-20-filled-icon,
+.fluentwallet-20-filled-icon {
+  position: absolute;
+  top: 352px;
+  left: 34px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.fluentarrow-sort-20-filled-icon {
+  top: 256px;
+  cursor: pointer;
+}
+.fluenthome-20-filled-icon,
+.fluentpower-20-regular-icon {
+  position: absolute;
+  top: 160px;
+  left: 34px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.fluentpower-20-regular-icon {
+  top: 640px;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.hello-abhijeet {
+  position: absolute;
+  top: 3px;
+  left: 76px;
+  font-weight: 600;
+}
+.abhijeeeeeeet {
+  position: absolute;
+  top: 39px;
+  left: 76px;
+  font-size: 16px;
+}
+.mask-group-parent {
+  position: absolute;
+  top: 56px;
+  left: 185px;
+  width: 249px;
+  height: 60px;
+  font-size: 24px;
+}
+.fluentperson-20-filled-icon,
+.fluentsend-20-filled-icon {
+  position: absolute;
+  top: 448px;
+  left: 34px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.fluentsend-20-filled-icon {
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.transfer {
+  position: absolute;
+  top: 1px;
+  left: 40px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+  font-weight: 600;
+}
+.fluentsend-20-filled-parent,
+.frame-div {
+  position: absolute;
+  top: 12px;
+  left: 43px;
+  width: 103px;
+  height: 24px;
+}
+.frame-div {
+  top: 56px;
+  left: 1130px;
+  border-radius: 15px;
+  background-color: #bf13bf;
+  width: 190px;
+  height: 48px;
+  color: #fff;
+}
+.send-invoice {
+  position: absolute;
+  top: 13px;
+  left: 64px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+  font-weight: 600;
+}
+.fluentreceipt-20-filled-icon {
+  position: absolute;
+  top: 12px;
+  left: 24px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.send-invoice-parent {
+  position: absolute;
+  top: 56px;
+  left: 900px;
+  border-radius: 15px;
+  background-color: #fff;
+  border: 1px solid #bf13bf;
+  box-sizing: border-box;
+  width: 190px;
+  height: 48px;
+  color: #bf13bf;
+}
+.div1,
+.wallet-balance {
+  position: absolute;
+  top: 194px;
+  left: 225px;
+  font-weight: 600;
+}
+.div1 {
+  top: 237px;
+  font-size: 40px;
+  letter-spacing: -0.02em;
+}
+.rectangle-div {
+  position: absolute;
+  top: 288px;
+  left: 673px;
+  border-radius: 32px;
+  background-color: #fff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  width: 299.5px;
+  height: 104px;
+}
+.dashboard-child1 {
+  position: absolute;
+  top: 308px;
+  left: 699px;
+  border-radius: 16px;
+  width: 64px;
+  height: 64px;
+}
+.bank-accounts,
+.banks-accounts {
+  position: absolute;
+  left: 787px;
+  font-weight: 500;
+}
+.banks-accounts {
+  top: 312px;
+  font-size: 20px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+}
+.bank-accounts {
+  top: 349px;
+  color: #787878;
+}
+.dashboard-child2 {
+  position: absolute;
+  top: 152px;
+  left: 673px;
+  border-radius: 32px;
+  background-color: #fff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  width: 299.5px;
+  height: 104px;
+}
+.dashboard-child3 {
+  position: absolute;
+  top: 172px;
+  left: 699px;
+  border-radius: 16px;
+  width: 64px;
+  height: 64px;
+}
+.usd-wallet,
+.wallet {
+  position: absolute;
+  left: 787px;
+  font-weight: 500;
+}
+.wallet {
+  top: 176px;
+  font-size: 20px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+}
+.usd-wallet {
+  top: 213px;
+  color: #787878;
+}
+.dashboard-child4 {
+  position: absolute;
+  top: 288px;
+  left: 1020px;
+  border-radius: 32px;
+  background-color: #fff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  width: 299.5px;
+  height: 104px;
+}
+.cards {
+  position: absolute;
+  top: 349px;
+  left: 1134px;
+  font-weight: 500;
+  color: #787878;
+}
+.dashboard-child5 {
+  position: absolute;
+  top: 308px;
+  left: 1046px;
+  border-radius: 16px;
+  width: 64px;
+  height: 64px;
+}
+.cards1 {
+  position: absolute;
+  top: 312px;
+  left: 1134px;
+  font-size: 20px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+  font-weight: 500;
+}
+.dashboard-child6 {
+  position: absolute;
+  top: 152px;
+  left: 1020px;
+  border-radius: 32px;
+  background-color: #fff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  width: 299.5px;
+  height: 104px;
+  cursor: pointer;
+}
+.transactions {
+  position: absolute;
+  top: 213px;
+  left: 1134px;
+  font-weight: 500;
+  color: #787878;
+}
+.dashboard-child7 {
+  position: absolute;
+  top: 172px;
+  left: 1046px;
+  border-radius: 16px;
+  width: 64px;
+  height: 64px;
+}
+.transactions1 {
+  position: absolute;
+  top: 176px;
+  left: 1134px;
+  font-size: 20px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+  font-weight: 500;
+}
+.fluentalert-20-filled-icon {
+  position: absolute;
+  top: 544px;
+  left: 34px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.dashboard-child8 {
+  position: absolute;
+  top: 327px;
+  left: 185px;
+  border-radius: 0 0 32px 32px;
+  background-color: #ffd6ff;
+  width: 440px;
+  height: 65px;
+}
+.dashboard-child9 {
+  position: absolute;
+  top: 342px;
+  left: 404px;
+  border-right: 2px solid rgba(204, 143, 194, 0.25);
+  box-sizing: border-box;
+  width: 2px;
+  height: 34px;
+}
+.add-balance,
+.withdraw {
+  position: absolute;
+  top: 351px;
+  font-size: 14px;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  color: #bf13bf;
+}
+.withdraw {
+  left: 254px;
+  text-align: center;
+}
+.add-balance {
+  left: 465px;
+}
+.fluentsend-20-filled-icon1,
+.undraw-make-it-rain-iwk4-1-icon {
+  position: absolute;
+  top: 488px;
+  left: 710px;
+  width: 545px;
+  height: 395px;
+  overflow: hidden;
+}
+.fluentsend-20-filled-icon1 {
+  top: 12px;
+  left: 39px;
+  width: 24px;
+  height: 24px;
+}
+.transfer1 {
+  position: absolute;
+  top: 13px;
+  left: 79px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+  font-weight: 600;
+}
+.fluentsend-20-filled-group {
+  position: absolute;
+  top: 730px;
+  left: 205px;
+  border-radius: 15px;
+  background-color: #bf13bf;
+  width: 190px;
+  height: 48px;
+  color: #fff;
+}
+.fluentreceipt-20-filled-icon1 {
+  position: absolute;
+  top: 12px;
+  left: 28px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.send-invoice-group {
+  position: absolute;
+  top: 730px;
+  left: 415px;
+  border-radius: 15px;
+  background-color: #fff;
+  width: 190px;
+  height: 48px;
+  color: #bf13bf;
+}
+.no-transactions-yet,
+.start-making-payments {
+  position: absolute;
+  top: 594px;
+  left: 205px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #787878;
+}
+.start-making-payments {
+  top: 626px;
+  font-size: 20px;
+  line-height: 160%;
+  display: inline-block;
+  width: 400px;
+}
+.dashboard-child10 {
+  position: absolute;
+  top: 24px;
+  left: 34.36px;
+  width: 31.3px;
+  height: 59.79px;
+}
+.dashboard {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #333;
+  font-family: Raleway;
+}

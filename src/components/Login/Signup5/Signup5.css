@@ -1,0 +1,125 @@
+.get-started,
+.lets1 {
+  position: absolute;
+  left: 120px;
+}
+.get-started {
+  top: 172px;
+  font-size: 32px;
+  letter-spacing: -0.02em;
+}
+.lets1 {
+  top: 136px;
+  font-weight: 600;
+}
+.proceed,
+.set-up-your {
+  position: absolute;
+  letter-spacing: 0.01em;
+}
+.set-up-your {
+  top: 240px;
+  left: 855px;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 400px;
+}
+.proceed {
+  top: 16px;
+  left: 167px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.buttonstroke4 {
+  position: absolute;
+  top: 504px;
+  left: 855px;
+  border-radius: 15px;
+  background-color: #bf13bf;
+  width: 400px;
+  height: 48px;
+  cursor: pointer;
+  overflow: hidden;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+}
+.enter-username,
+.vepme {
+  position: absolute;
+  top: 16px;
+  left: 156px;
+}
+.vepme {
+  top: 14px;
+  left: 36px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.input-item {
+  position: absolute;
+  top: -0.5px;
+  left: 131.5px;
+  border-right: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  width: 1px;
+  height: 49px;
+}
+.input8 {
+  position: absolute;
+  top: 330px;
+  left: 856px;
+  border-radius: 15px;
+  background-color: #f2f2f2;
+  width: 399px;
+  height: 48px;
+  overflow: hidden;
+  font-size: 14px;
+  color: #787878;
+}
+.this-will-be {
+  position: absolute;
+  top: 402px;
+  left: 855px;
+  font-size: 15px;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  display: inline-block;
+  width: 400px;
+}
+.undraw-account-re-o7id-icon {
+  position: absolute;
+  top: 303px;
+  left: 120px;
+  width: 485px;
+  height: 257px;
+  overflow: hidden;
+}
+.signup-child2 {
+  position: absolute;
+  top: 204px;
+  left: 719px;
+  border-right: 2px solid #f2f2f2;
+  box-sizing: border-box;
+  width: 2px;
+  height: 418px;
+}
+.signup-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 64px;
+}
+.signup3 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #333;
+  font-family: Raleway;
+}

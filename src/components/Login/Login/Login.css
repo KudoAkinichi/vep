@@ -1,0 +1,150 @@
+.hey,
+.welcome-back {
+  position: absolute;
+  left: 120px;
+}
+.welcome-back {
+  top: 156px;
+  font-size: 32px;
+  letter-spacing: -0.02em;
+}
+.hey {
+  top: 120px;
+  font-size: 24px;
+  font-weight: 600;
+}
+.enter-your-registered,
+.login-to-your {
+  position: absolute;
+  top: 270.57px;
+  left: 855px;
+  font-size: 16px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+}
+.login-to-your {
+  top: 221.57px;
+  font-size: 24px;
+  font-weight: 600;
+}
+.login1 {
+  position: relative;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.buttonstroke {
+  position: absolute;
+  top: 484.57px;
+  left: 855px;
+  border-radius: 15px;
+  background-color: #bf13bf;
+  width: 400px;
+  height: 48px;
+  overflow: hidden;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+}
+.dont-have-an {
+  position: relative;
+  line-height: 140%;
+}
+.sign-up {
+  position: relative;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #bf13bf;
+}
+
+.sign-up a{
+  text-decoration: none;
+}
+
+
+.dont-have-an-account-parent,
+.forgot-password-parent {
+  position: absolute;
+  top: 624.57px;
+  left: 927px;
+  width: 215px;
+  height: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.forgot-password-parent {
+  top: 556.57px;
+  left: 863px;
+  width: 251px;
+}
+.input,
+.input1 {
+  border: 0;
+  font-family: Raleway;
+  font-size: 14px;
+  background-color: #f2f2f2;
+  position: absolute;
+  left: 855px;
+  border-radius: 15px;
+  width: 400px;
+  height: 48px;
+  overflow: hidden;
+}
+.input {
+  top: 332.57px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 24px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.input1 {
+  top: 404.57px;
+  padding-left: 20px;
+}
+
+.undraw-pay-online-b-1-hk-1-1 {
+  position: absolute;
+  top: 247px;
+  left: 120px;
+  width: 505px;
+  height: 393px;
+  overflow: hidden;
+}
+.login-child {
+  position: absolute;
+  top: 225px;
+  left: 719px;
+  border-right: 2px solid #f2f2f2;
+  box-sizing: border-box;
+  width: 2px;
+  height: 418px;
+}
+.login-item {
+  position: absolute;
+  top: 123px;
+  left: 855px;
+  width: 150.45px;
+  height: 50.57px;
+}
+.login {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #333;
+  font-family: Raleway;
+}

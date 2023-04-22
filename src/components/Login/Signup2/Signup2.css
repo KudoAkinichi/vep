@@ -1,0 +1,146 @@
+.enter-your-email {
+    top: 267px;
+    left: 855px;
+    font-size: 16px;
+    line-height: 150%;
+    display: inline-block;
+    width: 400px;
+  }
+  .create-new-login,
+  .enter-your-email,
+  .next1 {
+    position: absolute;
+    letter-spacing: 0.01em;
+  }
+  .create-new-login {
+    top: 217px;
+    left: 855px;
+    font-size: 24px;
+    line-height: 140%;
+    font-weight: 600;
+    display: inline-block;
+    width: 400px;
+  }
+  .next1 {
+    top: 16px;
+    left: 181px;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .buttonstroke2,
+  .fluentarrow-left-20-filled-icon {
+    position: absolute;
+    top: 12px;
+    left: 355px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .buttonstroke2 {
+    top: 603px;
+    left: 855px;
+    border-radius: 15px;
+    background-color: #bf13bf;
+    width: 400px;
+    height: 48px;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+  }
+  .enter-email-id {
+    position: absolute;
+    top: 16px;
+    left: 52px;
+  }
+  .fluentmail-20-regular-icon,
+  .input3 {
+    position: absolute;
+    top: 14px;
+    left: 16px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+  }
+  .input3 {
+    top: 363px;
+    left: 855px;
+    border-radius: 15px;
+    background-color: #f2f2f2;
+    width: 400px;
+    height: 48px;
+    color: #787878;
+  }
+  .fluenteye-20-regular-icon,
+  .input4,
+  .input5 {
+    position: absolute;
+    top: 12px;
+    left: 353px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .input4,
+  .input5 {
+    top: 435px;
+    left: 855px;
+    border-radius: 15px;
+    background-color: #f2f2f2;
+    width: 400px;
+    height: 48px;
+    color: #787878;
+  }
+  .input5 {
+    top: 507px;
+  }
+  .lets,
+  .secure-your-login {
+    position: absolute;
+    left: 120px;
+  }
+  .secure-your-login {
+    top: 172px;
+    font-size: 32px;
+    letter-spacing: -0.02em;
+  }
+  .lets {
+    top: 136px;
+    font-size: 24px;
+    font-weight: 600;
+  }
+  .signup-inner {
+    position: absolute;
+    top: 208px;
+    left: 719px;
+    border-right: 2px solid #f2f2f2;
+    box-sizing: border-box;
+    width: 2px;
+    height: 418px;
+  }
+  .undraw-secure-login-pdn4-1-icon {
+    position: absolute;
+    top: 265px;
+    left: 120px;
+    width: 485px;
+    height: 339px;
+    overflow: hidden;
+  }
+  .signup-child1 {
+    position: absolute;
+    top: 123px;
+    left: 855px;
+    width: 150.45px;
+    height: 50.57px;
+  }
+  .signup1 {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 768px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14px;
+    color: #333;
+    font-family: Raleway;
+  }
+  

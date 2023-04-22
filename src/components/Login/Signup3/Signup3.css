@@ -1,0 +1,324 @@
+.basic-details1,
+.provide-all-your1 {
+  position: absolute;
+  letter-spacing: 0.01em;
+  color: #333;
+  display: inline-block;
+  width: 400px;
+}
+.basic-details1 {
+  top: 96px;
+  left: 205px;
+  font-size: 24px;
+  line-height: 140%;
+  font-weight: 600;
+}
+.provide-all-your1 {
+  top: 0;
+  left: 0;
+  font-size: 16px;
+  line-height: 150%;
+}
+.enter-your-first1 {
+  position: absolute;
+  top: 16px;
+  left: 20px;
+}
+.input23,
+.input24 {
+  position: absolute;
+  top: 48px;
+  left: 0;
+  border-radius: 15px;
+  background-color: #f2f2f2;
+  width: 400px;
+  height: 48px;
+  overflow: hidden;
+}
+.input24 {
+  top: 120px;
+}
+.fluentcalendar-ltr-20-regular-icon1,
+.input25,
+.input26 {
+  position: absolute;
+  top: 14px;
+  left: 360px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.input25,
+.input26 {
+  top: 192px;
+  left: 0;
+  border-radius: 15px;
+  background-color: #f2f2f2;
+  width: 400px;
+  height: 48px;
+}
+.input26 {
+  top: 264px;
+}
+.provide-all-your-required-deta-group {
+  position: absolute;
+  top: 418px;
+  left: 205px;
+  width: 400px;
+  height: 312px;
+}
+.account-will-be1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 16px;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  display: inline-block;
+  width: 328px;
+}
+.individual1 {
+  position: absolute;
+  top: 16px;
+  left: 50px;
+  text-transform: uppercase;
+}
+.input-child1,
+.input27 {
+  position: absolute;
+  top: 19px;
+  left: 16px;
+  width: 10px;
+  height: 10px;
+}
+.input27 {
+  top: 48px;
+  left: 0;
+  border-radius: 15px;
+  background-color: #f2f2f2;
+  width: 188px;
+  height: 48px;
+  overflow: hidden;
+  color: #787878;
+}
+.business1 {
+  position: absolute;
+  top: 16px;
+  left: 50px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.input28 {
+  position: absolute;
+  top: 48px;
+  left: 212px;
+  border-radius: 15px;
+  background-color: #f2f2f2;
+  width: 188px;
+  height: 48px;
+  overflow: hidden;
+}
+.account-will-be-used-byfor-group {
+  position: absolute;
+  top: 146px;
+  left: 205px;
+  width: 400px;
+  height: 96px;
+  color: #333;
+}
+.provide-your-business1 {
+  position: absolute;
+  top: 146px;
+  left: 835px;
+  font-size: 16px;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  color: #333;
+  display: inline-block;
+  width: 328px;
+}
+.input29,
+.input30,
+.input31,
+.input32,
+.input33,
+.input34,
+.input35 {
+  position: absolute;
+  top: 202px;
+  left: 835px;
+  border-radius: 15px;
+  background-color: #f2f2f2;
+  width: 400px;
+  height: 48px;
+  overflow: hidden;
+}
+.input30,
+.input31,
+.input32,
+.input33,
+.input34,
+.input35 {
+  top: 274px;
+}
+.input31,
+.input32,
+.input33,
+.input34,
+.input35 {
+  top: 346px;
+}
+.input32,
+.input33,
+.input34,
+.input35 {
+  top: 418px;
+}
+.input33,
+.input34,
+.input35 {
+  top: 562px;
+}
+.input34,
+.input35 {
+  top: 490px;
+}
+.input35 {
+  top: 634px;
+}
+.signup-child6 {
+  position: absolute;
+  top: 199px;
+  left: 719px;
+  border-right: 2px solid #f2f2f2;
+  box-sizing: border-box;
+  width: 2px;
+  height: 505px;
+}
+.set-your-wallets1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  display: inline-block;
+  width: 400px;
+}
+.fluentcaret-down-24-filled-icon8,
+.input36 {
+  position: absolute;
+  top: 14px;
+  left: 359px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.input36 {
+  top: 48px;
+  left: 0;
+  border-radius: 15px;
+  background-color: #f2f2f2;
+  width: 400px;
+  height: 48px;
+  font-size: 14px;
+  color: #787878;
+}
+.set-your-wallets-primary-curr-group {
+  position: absolute;
+  top: 282px;
+  left: 205px;
+  width: 400px;
+  height: 96px;
+  font-size: 16px;
+  color: #333;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0-3px 48px rgba(0, 0, 0, 0.06);
+  width: 1440px;
+  height: 100px;
+}
+.fluentcheckbox-unchecked-20-r-icon1 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.terms-and-conditions1 {
+  font-weight: 600;
+  color: #bf13bf;
+}
+.i-have-read-container1 {
+  position: absolute;
+  top: 0;
+  left: 28px;
+  line-height: 160%;
+  display: inline-block;
+  width: 497px;
+}
+.fluentcheckbox-unchecked-20-r-group {
+  position: absolute;
+  top: 39px;
+  left: 205px;
+  width: 525px;
+  height: 22px;
+}
+.next4 {
+  position: absolute;
+  top: 16px;
+  left: 181px;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.buttonstroke6,
+.fluentarrow-left-20-filled-icon3 {
+  position: absolute;
+  top: 12px;
+  left: 355px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.buttonstroke6 {
+  top: 26px;
+  left: 835px;
+  border-radius: 15px;
+  background-color: #bf13bf;
+  width: 400px;
+  height: 48px;
+  cursor: pointer;
+  text-align: center;
+  color: #fff;
+}
+.rectangle-group,
+.signup-child7 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.rectangle-group {
+  top: 770px;
+  height: 100px;
+  color: #333;
+}
+.signup-child7 {
+  top: 0;
+  height: 64px;
+}
+.signup5 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 870px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #787878;
+  font-family: Raleway;
+}
