@@ -1,3 +1,7 @@
+This Webiste is made based on a `figma` design given by `IoT Labs KIIT` to learn, apply and practice my `REACT` skills.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
