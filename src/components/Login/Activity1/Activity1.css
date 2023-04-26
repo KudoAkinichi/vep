@@ -1,0 +1,252 @@
+.activity-child9 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 8px 0 16px rgba(0, 0, 0, 0.05);
+    width: 100px;
+    height: 1024px;
+  }
+  .fluentarrow-sort-20-filled-icon2,
+  .fluenthome-20-filled-icon2,
+  .fluentwallet-20-filled-icon2 {
+    position: absolute;
+    top: 352px;
+    left: 34px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+  }
+  .fluentarrow-sort-20-filled-icon2,
+  .fluenthome-20-filled-icon2 {
+    top: 256px;
+  }
+  .fluenthome-20-filled-icon2 {
+    top: 160px;
+  }
+  .fluentalert-20-filled-icon2,
+  .fluentperson-20-filled-icon2,
+  .fluentpower-20-regular-icon2 {
+    position: absolute;
+    top: 640px;
+    left: 34px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+  }
+  .fluentalert-20-filled-icon2,
+  .fluentperson-20-filled-icon2 {
+    top: 448px;
+  }
+  .fluentalert-20-filled-icon2 {
+    top: 544px;
+  }
+  .activities1 {
+    position: absolute;
+    top: 56px;
+    left: 185px;
+    font-weight: 600;
+  }
+  .activity-child10 {
+    position: absolute;
+    top: 115px;
+    left: 185px;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    width: 1155px;
+    height: 405px;
+  }
+  .completed {
+    position: absolute;
+    top: 148px;
+    left: 1162px;
+    letter-spacing: 0.01em;
+    line-height: 140%;
+    color: #29cc7a;
+  }
+  .completed,
+  .ve123445dsad123 {
+    font-weight: 600;
+  }
+  .transaction-id-ve123445dsad12-container {
+    position: absolute;
+    top: 154px;
+    left: 255px;
+    letter-spacing: 0.01em;
+    line-height: 140%;
+    color: #333;
+  }
+  .paid-to-saiswarupchakra {
+    position: absolute;
+    top: 0;
+    left: 0;
+    letter-spacing: 0.01em;
+    line-height: 140%;
+  }
+  .mask-group-icon6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  .sai-swarup-chakra {
+    position: absolute;
+    top: 7px;
+    left: 56px;
+    letter-spacing: 0.01em;
+    line-height: 160%;
+    font-weight: 500;
+  }
+  .mask-group-group {
+    position: absolute;
+    top: 38px;
+    left: 0;
+    width: 197px;
+    height: 40px;
+  }
+  .paid-to-saiswarupchakra-parent {
+    position: absolute;
+    top: 259px;
+    left: 255px;
+    width: 197px;
+    height: 78px;
+    color: #333;
+  }
+  .amount-paid,
+  .div2 {
+    position: absolute;
+    left: 1130px;
+  }
+  .div2 {
+    top: 289px;
+    letter-spacing: 0.01em;
+    line-height: 160%;
+    font-weight: 600;
+    color: #333;
+  }
+  .amount-paid {
+    top: 259px;
+    line-height: 140%;
+  }
+  .activity-child11,
+  .activity-child12 {
+    position: absolute;
+    top: 360.5px;
+    left: 204.5px;
+    border-top: 1px solid #dadada;
+    box-sizing: border-box;
+    width: 1116px;
+    height: 1px;
+  }
+  .activity-child12 {
+    top: 234.5px;
+  }
+  .fluentcheckmark-starburst-20-icon {
+    position: absolute;
+    top: 147px;
+    left: 1130px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .pm-2nd-feb {
+    position: absolute;
+    top: 192px;
+    left: 255px;
+    font-weight: 500;
+  }
+  .from {
+    top: 259px;
+    left: 710px;
+    letter-spacing: 0.01em;
+    line-height: 140%;
+  }
+  .from,
+  .help,
+  .message {
+    position: absolute;
+  }
+  .message {
+    top: 385px;
+    left: 255px;
+    letter-spacing: 0.01em;
+    line-height: 140%;
+  }
+  .help {
+    top: 0;
+    left: 28px;
+  }
+  .fluentchat-help-20-regular-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+  }
+  .group-parent,
+  .help-parent,
+  .share-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 64px;
+    height: 20px;
+  }
+  .group-parent,
+  .share-parent {
+    left: 144px;
+    width: 71px;
+  }
+  .group-parent {
+    top: 55px;
+    left: 1089px;
+    width: 215px;
+    color: #bf13bf;
+  }
+  .usd-wallet1 {
+    position: absolute;
+    top: 289px;
+    left: 710px;
+    letter-spacing: 0.01em;
+    line-height: 160%;
+    font-weight: 500;
+    color: #333;
+  }
+  .fluentcopy-20-regular-icon {
+    position: absolute;
+    top: 155px;
+    left: 563px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+  }
+  .bussiness-dealings {
+    position: absolute;
+    top: 423px;
+    left: 255px;
+    font-weight: 500;
+    color: #333;
+  }
+  .activity-child13 {
+    position: absolute;
+    top: 24px;
+    left: 34.36px;
+    width: 31.3px;
+    height: 59.79px;
+  }
+  .activity1 {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 769px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #787878;
+    font-family: Raleway;
+  }
+  

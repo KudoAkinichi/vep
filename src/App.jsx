@@ -8,6 +8,8 @@ import Signup4 from "./components/Login/Signup4/Signup4.jsx";
 import Signup5 from "./components/Login/Signup5/Signup5.jsx";
 import Successful from "./components/Login/Successful/Successful.jsx";
 import Dashboard from "./components/Login/Dashboard/Dashboard.jsx";
+import Activity from "./components/Login/Activity/Activity.jsx";
+import Activity1 from "./components/Login/Activity1/Activity1.jsx";
 
 const router = createBrowserRouter(
   createRoutesFromChildren([
@@ -18,9 +20,25 @@ const router = createBrowserRouter(
     <Route  path="/auth/3" element={<Signup4 />}/>,
     <Route  path="/auth/4" element={<Signup5 />}/>,
     <Route  path="/auth/5" element={<Successful />}/>,
-    <Route  path="/Home" element={<Dashboard />}/>
+    <Route  path="/Home" element={<Dashboard />}/>,
+    <Route  path="/activity" element={<Activity />}/>,
+    <Route  path="/Status" element={<Activity1 />}/>
   ])
 );
+
+// Possible method:
+// function App() {
+//   return (
+//     <div className="App">
+//       <Routes>
+//         <Route path="/" element={ <Home/> } />
+//         <Route path="about" element={ <About/> } />
+//         <Route path="contact" element={ <Contact/> } />
+//       </Routes>
+//     </div>
+//   )
+// }
+
 
 function App() {
   return <RouterProvider router={router} />;
